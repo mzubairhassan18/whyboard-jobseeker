@@ -8,7 +8,8 @@ comparing channels, checking timing, testing its own hypotheses — then tells y
 story behind the rejections, with a confidence level, the caveats, and every query
 it ran.
 
-**Live:** https://jobseeker.whyboard.app
+**Live:** https://whyboard-jobseeker.vercel.app
+(custom domain `jobseeker.whyboard.app` once DNS points at the project)
 
 ---
 
